@@ -1,0 +1,61 @@
+*{
+    background-color: #F6F6F6;
+}
+
+.footer{
+    display: flex;
+}
+
+.message-logo{
+    width: 50%;
+}
+
+.company-logo{
+    height: 300px;
+    align-items: center;
+}
+
+
+.message-container{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.message-box{
+    display: flex;
+    flex-direction: row;
+    border-radius: 2px;
+    width: 360px;
+    flex-wrap: wrap;
+    margin-left: 30px;
+    margin-top: 5px;
+    background-color: white;
+}
+
+.message-box-1{
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+.message-box-2{
+    background-color: white;
+}
+
+.message-image{
+    margin: 0px 15px;
+    height: 60px;
+    background-color: white;
+}
+
+.message-head{
+    font-weight: bold;
+    background-color: white;
+}
+
+.message-para{
+    font-size: 12px;
+    text-decoration: none;
+    background-color: white;
+}
